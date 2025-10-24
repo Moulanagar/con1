@@ -78,10 +78,7 @@ Phone Validation: Only numbers allowed; length between 5–15 digits.
 
 🔗 Deployment
 
-The app can be deployed on Vercel, Netlify, or GitHub Pages.
-
-Example: https://your-deployment-url
-
+Deployed Url: https://con1-umber.vercel.app/
 💡 Assumptions & Design Choices
 
 Contacts are initially fetched from jsonplaceholder API, then stored in Context state.
